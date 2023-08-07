@@ -77,8 +77,8 @@ export const Projects = () => {
                                     }
                                 </Row>
                             </Tab.Pane>
-                            <Tab.Pane eventKey="second">Section in Progress</Tab.Pane>
-                            <Tab.Pane eventKey="third">Section in Progress</Tab.Pane>
+                            <Tab.Pane eventKey="second">Section development in Progress...</Tab.Pane>
+                            <Tab.Pane eventKey="third">Section development in Progress...</Tab.Pane>
                         </Tab.Content>
                     </Tab.Container>
                     </Col>
